@@ -1,0 +1,70 @@
+table {
+    width: 100%;
+}
+
+.mega-tr td {
+    border: 2px solid #419e68;
+    width: 16.66666666666667%;
+    height:38px;
+}
+.botao{
+    margin-bottom: 1rem;
+}
+
+.brk-btn button {
+    text-decoration: none;
+    color: #419e68;
+    padding-bottom: 0.15em;
+    box-sizing: border-box;
+    box-shadow: inset 0 -0.2em 0 #419e68;
+    transition: 0.2s;
+  
+}
+
+.brk-btn button:hover {
+    color: #222;
+    box-shadow: inset 0 -2em 0 #419e68;
+    transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+
+}
+
+.brk-btn {
+    position: relative;
+    background: none;
+    color: #419e68;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 0.2em solid #419e68;
+    padding: 0.5em 1em;}
+    .brk-btn button:before {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 10%;
+      background: #222;
+      height: 0.3em;
+      right: 20%;
+      top: -0.21em;
+      transform: skewX(-45deg);
+      -webkit-transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+      transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+    }
+    .brk-btn button:after {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 10%;
+      background: #222;
+      height: 0.3em;
+      left: 20%;
+      bottom: -0.25em;
+      transform: skewX(45deg);
+      -webkit-transition: all 0.45 cubic-bezier(0.86, 0, 0.07, 1);
+      transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+    }
+    
+     
+      
+    
+    
+  

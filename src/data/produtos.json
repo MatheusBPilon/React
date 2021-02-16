@@ -1,0 +1,40 @@
+[
+    {
+        "id": 0,
+        "produto": "FX 8320E",
+        "preco": 322.00,
+        "quantidade": 0,
+        "total": 0
+    },
+    {
+        "id": 1,
+        "produto": "SSD 400GB",
+        "preco": 582.00,
+        "quantidade": 0,
+        "total": 0
+    }
+    ,
+    {
+        "id": 2,
+        "produto": "RTX 2080",
+        "preco": 1882.00,
+        "quantidade": 0,
+        "total": 0
+    }
+    ,
+    {
+        "id": 3,
+        "produto": "Ram 8GB",
+        "preco": 252.00,
+        "quantidade": 0,
+        "total": 0
+    }
+    ,
+    {
+        "id": 4,
+        "produto": "Fonte 500W",
+        "preco": 382.00,
+        "quantidade": 0,
+        "total": 0
+    }
+]

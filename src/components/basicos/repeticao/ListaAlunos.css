@@ -1,0 +1,12 @@
+.tabela{
+   background-color: #0084ff;
+   border: 1px solid black;
+   width: 100%;
+}
+
+.tabela td{
+    border: 1px solid black;
+}
+.tabela th{
+    border: 1px solid black;
+}
